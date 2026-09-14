@@ -1,0 +1,1 @@
+{"description":"Shared COCM design tokens — Tailwind preset + global CSS used by cocm-internal and bookstore. Change it here, both apps update.","files":["tailwind.preset.cjs","theme.css","README.md"],"license":"UNLICENSED","main":"tailwind.preset.cjs","name":"@cocm/theme","private":false,"version":"1.0.0"}
